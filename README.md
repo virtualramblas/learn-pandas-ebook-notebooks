@@ -1,5 +1,5 @@
 # learn-pandas-ebook-notebooks
-This repository contains the examples of the [Learning Pandas free eBook](https://riptutorial.com/ebook/pandas) as [Jupyter](https://jupyter.org/) notebooks. I started collecting the examples into notebooks with the hope this could be of great help to people who started learning pandas.  
+This repository contains the examples of the [Learning Pandas free eBook](https://riptutorial.com/ebook/pandas) as [Jupyter](https://jupyter.org/) notebooks. I started collecting the examples into notebooks with the hope this could be of great help to people who started learning [pandas](https://pandas.pydata.org/).  
 Disclaimer: I am not the author of the book nor its maintainer. I personally verified that the all of the examples are valid and then replicated them into Jupyter notebooks. Any feedback about the notebooks and contributions to this repo are welcomed. Please redirect any feedback about the book to [RIP Tutorial](https://riptutorial.com/).  
   
 You need Python 3.x to execute these notebooks.  
@@ -7,11 +7,11 @@ So far only chapters from 1 to 5 have been covered. Stay tuned for updates.
 
 ### Book Summary
 The examples of each chapter have been collected in a single Jupyter notebook. Here's the book chapters' list (each link redirects to the corresponding notebook):  
-* Chapter 1: Getting started with pandas
-* Chapter 2: Analysis: Bringing it all together and making decisions
-* Chapter 3: Appending to DataFrame
-* Chapter 4: Boolean indexing of dataframes
-* Chapter 5: Categorical data
+* [Chapter 1: Getting started with pandas](https://github.com/virtualramblas/learn-pandas-ebook-notebooks/blob/master/Learning%20Pandas%20Book%20-%20Chapter%201.ipynb)
+* [Chapter 2: Analysis: Bringing it all together and making decisions](https://github.com/virtualramblas/learn-pandas-ebook-notebooks/blob/master/Learning%20Pandas%20Book%20-%20Chapter%202.ipynb)
+* [Chapter 3: Appending to DataFrame](https://github.com/virtualramblas/learn-pandas-ebook-notebooks/blob/master/Learning%20Pandas%20Book%20-%20Chapter%203.ipynb)
+* [Chapter 4: Boolean indexing of dataframes](https://github.com/virtualramblas/learn-pandas-ebook-notebooks/blob/master/Learning%20Pandas%20Book%20-%20Chapter%204.ipynb)
+* [Chapter 5: Categorical data](https://github.com/virtualramblas/learn-pandas-ebook-notebooks/blob/master/Learning%20Pandas%20Book%20-%20Chapter%205.ipynb)
 * Chapter 6: Computational Tools
 * Chapter 7: Creating DataFrames
 * Chapter 8: Cross sections of different axes with MultiIndex
